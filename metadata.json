@@ -1,0 +1,6 @@
+{
+  "name": "Singapore Property Investment Analytics",
+  "description": "Comprehensive Singapore property investment & valuation analytics dashboard featuring district heatmaps, rental yield calculations, freehold vs leasehold trends, primary school proximity checks, and AI property insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
